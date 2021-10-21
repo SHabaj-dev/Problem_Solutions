@@ -14,6 +14,7 @@ public class Q9_Palendrom {
         
 
         System.out.println(isPalendrom(num));
+        sc.close();
     }
 
     public static boolean isPalendrom(int num) {

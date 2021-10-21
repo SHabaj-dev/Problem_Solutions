@@ -19,6 +19,7 @@ public class RunningSum1D {
         for (int i : ans) {
             System.out.print(i + " ");
         }
+        sc.close();
     }
 
     public static int[] runningSum(int[] nums) {

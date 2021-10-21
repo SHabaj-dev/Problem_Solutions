@@ -20,6 +20,7 @@ public class ShuffleTheArray {
         for(int i : s_arr){
             System.out.print(i + " ");
         }
+        sc.close();
     }
 
     public static int[] shuffle(int[] nums, int n) {

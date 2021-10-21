@@ -18,6 +18,7 @@ public class BinarySearch {
         int ans = binarySearch(arr, target);
 
         System.out.println(ans);
+        sc.close();
 
     }
 

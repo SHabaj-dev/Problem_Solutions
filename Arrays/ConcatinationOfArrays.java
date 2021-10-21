@@ -19,6 +19,7 @@ public class ConcatinationOfArrays {
         for (int i : ans) {
             System.out.print(i + " ");
         }
+        sc.close();
 
     }
 

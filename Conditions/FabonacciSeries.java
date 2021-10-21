@@ -22,6 +22,7 @@ public class FabonacciSeries {
             o = sum;
             System.out.print(sum + " ");
         }
+        sc.close();
 
     }
 }

@@ -25,7 +25,7 @@ public class NumberOccurance {
         }
 
         System.out.printf("The occurance of the %d is %d",search, count );
-
+        sc.close();
 
     }
     

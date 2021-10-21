@@ -16,6 +16,7 @@ public class AlphabetCheckCase {
         if(ch >= 'A' && ch <= 'Z'){
             System.out.println("The Charater is in Upper case.");
         }
+        sc.close();
     }
     
 }

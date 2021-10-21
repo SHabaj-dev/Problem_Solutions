@@ -23,6 +23,7 @@ public class RichestCustomerWealth {
         int max_wealth = maximumWealth(arr);
 
         System.out.println(max_wealth);
+        sc.close();
     }
 
     public static int maximumWealth(int[][] accounts) {

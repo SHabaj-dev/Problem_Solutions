@@ -20,6 +20,7 @@ public class GratestNumbersOfCandies {
         }
 
         System.out.println(kidsWithCandies(arr, Extra));
+        sc.close();
 
     }
 

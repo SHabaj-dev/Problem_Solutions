@@ -23,6 +23,7 @@ public class Q1_TwoSum {
         for(int i : index){
             System.out.print(i + " ");
         }
+        sc.close();
     }
 
     public static int[] findindex(int[] nums, int target){

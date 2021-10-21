@@ -22,6 +22,8 @@ public class ArrayFromPermutation {
             System.out.print(i + " ");
         }
 
+        sc.close();
+
     }
 
     public static int[] buildArray(int[] nums) {

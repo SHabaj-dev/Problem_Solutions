@@ -17,6 +17,7 @@ public class LargestOfThree {
         } else {
             System.out.println(num3 + " is the biggest of the all");
         }
+        sc.close();
     }
 
 }

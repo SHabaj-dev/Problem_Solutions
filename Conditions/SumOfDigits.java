@@ -19,6 +19,7 @@ public class SumOfDigits {
         }
 
         System.out.println("Sum of Digits of the given number is " + sum);
+        sc.close();
     }
     
 }

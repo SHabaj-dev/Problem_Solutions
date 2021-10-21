@@ -26,6 +26,7 @@ public class HCF {
         }
 
         System.out.printf("The HCf of the %d and %d is %d ", num1, num2, hcf);
+        sc.close();
     }
     
 }

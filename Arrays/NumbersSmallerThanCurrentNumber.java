@@ -34,5 +34,6 @@ public class NumbersSmallerThanCurrentNumber {
         for (int i : count) {
             System.out.print(i + " ");
         }
+        sc.close();
     }
 }

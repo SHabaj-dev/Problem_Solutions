@@ -17,6 +17,7 @@ public class FindNumbersWithEvenDigits {
         int count_even_digits = evenDigits(arr);
 
         System.out.println(count_even_digits);
+        sc.close();
     }
 
     public static int evenDigits(int[] nums) {

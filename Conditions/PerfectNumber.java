@@ -27,5 +27,6 @@ public class PerfectNumber {
         } else {
             System.out.println("Entered Number is Not a Perfect Number.");
         }
+        sc.close();
     }
 }

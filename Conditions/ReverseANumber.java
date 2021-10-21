@@ -16,6 +16,7 @@ public class ReverseANumber {
             num /= 10;
         }
         System.out.println(rev_num);
+        sc.close();
     }
 
 }

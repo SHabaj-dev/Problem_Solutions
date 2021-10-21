@@ -24,5 +24,6 @@ public class LCM {
         }
 
         System.out.format("LCM of the %d and %d is %d", num1, num2, lcm);
+        sc.close();
     }
 }

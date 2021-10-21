@@ -25,6 +25,7 @@ public class Q88_MergeArray {
         for(int i : mergedArray){
             System.out.print(i + " ");
         }
+        sc.close();
     }
 
     public static int[] meargArray(int[] arr1, int[] arr2, int m, int n){

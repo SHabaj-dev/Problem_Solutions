@@ -32,6 +32,7 @@ public class Good_Pairs {
         }
 
         System.out.println(count);
+        sc.close();
 
     }
 }

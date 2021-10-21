@@ -18,5 +18,6 @@ public class VowelOrConsonent {
         } else {
             System.out.println("The Charater you Enterd is a Consonent");
         }
+        sc.close();
     }
 }

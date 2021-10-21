@@ -27,6 +27,7 @@ public class LargestNumber {
         }
 
         System.out.println(max);
+        sc.close();
     }
     
 }
