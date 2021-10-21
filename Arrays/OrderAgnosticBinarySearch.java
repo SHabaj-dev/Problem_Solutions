@@ -24,7 +24,7 @@ public class OrderAgnosticBinarySearch {
             ans = binarySearchinAcnd(arr, target);
         }
 
-        if (arr[0] > arr[arr.length]) {
+        if (arr[0] > arr[arr.length - 1]) {
             ans = binarySearchinDecn(arr, target);
         }
 

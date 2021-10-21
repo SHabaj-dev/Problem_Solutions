@@ -42,6 +42,7 @@ public class Q88_MergeArray {
     public static int[] inputArray(int size){
         Scanner sc = new Scanner(System.in);
         int array[] = new int[size];
+        sc.close();
 
         for(int i = 0; i < size; i++){
             array[i] = sc.nextInt();
