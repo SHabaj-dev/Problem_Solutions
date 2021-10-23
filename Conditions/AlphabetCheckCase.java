@@ -1,7 +1,5 @@
 package Conditions;
-
 import java.util.Scanner;
-
 public class AlphabetCheckCase {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
