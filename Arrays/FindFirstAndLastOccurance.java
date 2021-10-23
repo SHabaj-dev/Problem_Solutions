@@ -21,6 +21,7 @@ public class FindFirstAndLastOccurance {
         for (int i : ans) {
             System.out.println(i + " ");
         }
+        sc.close();
     }
 
     public static int[] findfirstandlast(int arr[], int target) {
@@ -58,7 +59,3 @@ public class FindFirstAndLastOccurance {
         return ans;
     }
 }
-
-
-
-

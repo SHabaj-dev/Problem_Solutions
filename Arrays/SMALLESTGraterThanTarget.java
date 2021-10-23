@@ -21,6 +21,7 @@ public class SMALLESTGraterThanTarget {
             chArray[i] = sc.next().charAt(0);
         }
         char target = sc.next().charAt(0);
+        sc.close();
 
         char ret = smallestbinarySearch(chArray, target);
 
