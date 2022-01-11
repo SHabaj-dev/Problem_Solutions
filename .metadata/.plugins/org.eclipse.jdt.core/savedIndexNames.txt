@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\Programing Practice\Kunal Kuswaha\.metadata\.plugins\org.eclipse.jdt.core
+1285254819.index
+1865797976.index
+75931715.index
+890247184.index
+1899886968.index

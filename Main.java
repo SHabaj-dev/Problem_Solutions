@@ -1,34 +1,25 @@
-// import java.util.LinkedList;
+import java.util.Scanner;
 
-// public class Main {
-//     public static void main(String[] args) {
-//     //     String str = "adbc";
-//     //     String t = "";
-//     //     int order = 2;
+/**
+ * Main
+ */
+public class Main {
+    public static void main(String[] args) {
 
-//     //     for (int i = 0; i < str.length() - 1; i++) {
-//     //         for (int j = 1; j < str.length() - 1; j++) {
-//     //             if (str.charAt(i) < str.charAt(j)) {
-//     //                 t = t + str.charAt(i);
-//     //             } else if (str.charAt(i) > str.charAt(j)) {
-//     //                 t = t + str.charAt(j);
-//     //             }
-//     //         }
-//     //     }
+//        int num = 1;
 
-//     //     System.out.println(t);
-//     // }
+//        while(num <= 100){
+//            System.out.print(num + " ");
+//            num++;
+//        }
 
+//        do{
+//            System.out.println(num);
+//            num++;
+//        }while(num <= 100);
 
-//     int i  =0 ; 
-//     int j = 0;
-//     while(i < 5, j < 5){
-//         i++;
-//         j++;
-//     }
-// }
-//     }
-
-
-
-// }
+        for(int i = 0; i <= 100; i++){
+            System.out.println(i);
+        }
+    }
+}
